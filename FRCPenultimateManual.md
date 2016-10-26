@@ -146,6 +146,7 @@ The volunteers are the people who keep the events, and FIRST to a lesser extent 
 
 * ALWAYS connect to the field at least once before qualification matches start.
 
+
 * One of the best things that you can own is a [Battery Beak](http://www.andymark.com/battery-beak-p/am-batterybeak.htm)
 
 ## Build
@@ -167,6 +168,8 @@ The volunteers are the people who keep the events, and FIRST to a lesser extent 
 * Don’t overcomplicate your code.
 
 * Clean code is good, functional code is better.
+
+* Remember to comment your code so it is easier to understand your logic when you check it in a rush at an event!
 
 * Changing the code during competitions is do-able, but risky, so try to avoid it.  Keeping your code with you is also important, just in case you need to compile for a RIO spare.
 
