@@ -54,6 +54,9 @@ Some types of mentorship are based on skills, while others are not.  Programming
 The volunteers are the people who keep the events, and FIRST to a lesser extent running.  Without the hard work of the volunteers, being family members of teams (or entire teams), alumni, businesses with a vested interest in the programs, FRC as we know it could not exist.  They run the field, the pits, the administration, and some of the most crucial parts of our community.  
 * Ex: The Blue Alliance, a community site to view team information, was developed by students turned mentors, and is sponsored by Firebase and IFI.
 
+### Getting Started
+
+As a student, to participate in FIRST you need to register in STIMS.  The Student Technology Information System.  Though the system is slightly messy, you can use [this guide](http://nutrons.com/wp-content/uploads/2016/10/How-to-Navigate-STIMS-1.pdf) the Nutrons to help you along.  Having a similar presentation during one of your early meetings would definitely help you.
 * * *
 
 #Team Divisions
@@ -77,7 +80,7 @@ The volunteers are the people who keep the events, and FIRST to a lesser extent 
 
 * Always be positive. Please don’t talk negatively about yourself, a specific group of people, or the team in general. Attitude is everything.
 
-* Don’t be afraid to ask questions.
+[* Don’t be afraid to ask questions.
 
 * MAKE FRIENDS. People are so nice.
 
