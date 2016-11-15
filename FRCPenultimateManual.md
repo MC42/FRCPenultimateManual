@@ -607,7 +607,7 @@ Outreach in *FIRST*, and more specifically, in FRC, is the act of demonstrating 
 
 First and foremost, outreach is something that all teams don't have to do.  However, it is helpful to get new members and go for awards like Rookie All Star and Chairman's.  It may not be *feasible* for a lot of teams to do outreach on a large scale, however.  Knowing where your team lies to begin with is an important line to know of.  The most important thing your team will need for outreach, more than anything else is *people*.  Having people who understand what your goal is, to coherently and publicly speak about and for your team is something you may not have, and conversely may desperately need.
 
-Getting outreach coordinated is a complicated thing, and often requires the head of a [leader](#officers--leadership).  Being able to coherently and efficiently speak about the team reflects better on both you as an individual, and you collectively as a team.  As a result, you may gain (business)[#business] contacts, and potential sponsors, as well as prospective new recruits for your team.
+Getting outreach coordinated is a complicated thing, and often requires the head of a [leader](#officers--leadership).  Being able to coherently and efficiently speak about the team reflects better on both you as an individual, and you collectively as a team.  As a result, you may gain [business](#business) contacts, and potential sponsors, as well as prospective new recruits for your team.
 
 **Small Scale**
 
