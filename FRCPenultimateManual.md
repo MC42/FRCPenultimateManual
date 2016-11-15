@@ -80,7 +80,7 @@ As a student, to participate in FIRST you need to register in STIMS.  The Studen
 
 * Always be positive. Please don’t talk negatively about yourself, a specific group of people, or the team in general. Attitude is everything.
 
-[* Don’t be afraid to ask questions.
+* Don’t be afraid to ask questions.
 
 * MAKE FRIENDS. People are so nice.
 
@@ -136,6 +136,21 @@ As a student, to participate in FIRST you need to register in STIMS.  The Studen
 * Reference: [Roles of Team Captain](#roles-of-team-captain)
 
 ## Electronics
+
+**Anderson Powerpoles?**
+
+Anderson Powerpoles are a connector family designed to be quick and easy to install and remove.  To use one you simply strip the wire, put the pin on the wire, crimp it down, and slide it onto the connector.  
+
+Purely by the dollar amount, Andersons are more expensive.
+
+* [100 count crimp connectors](https://absupply.net/dolphin-dc-100-p-plain-no-sealant-white-crimp-connectors-100ct.aspx) - $14 USD.
+* [100 count. Anderson Kit](https://www.amazon.com/Anderson-Powerpole-Connectors-100-Pair/dp/B0070RW30G) - $72.99 USD.
+
+This major difference in price is an enormous turn-off for FRC teams, especially ones that don't have a significant amount of money.  However, terminating your electrical equipment with them allows you to quickly move and replace equipment in the event of a failure without fussing with the PDB and potentially breaking your connector.  In addition, the shells of the connector can be re-used if you have a dissassembly tool, such that if you put pins on the cables and use older shells, they would function as intended. 
+
+If your team finds the time saved, or the potential to not miss a match you may otherwise have to be worth it, then Anderson Powerpoles may be worth it.  Furthermore, if you have an electrical supplyhouse as a sponsor, perhaps they'd be willing to do a material donation of Powerpoles and tooling to help out.
+
+**General Ideas**
 
 * Checklists are helpful.
 
