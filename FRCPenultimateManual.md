@@ -54,6 +54,22 @@ Some types of mentorship are based on skills, while others are not.  Programming
 The volunteers are the people who keep the events, and FIRST to a lesser extent running.  Without the hard work of the volunteers, being family members of teams (or entire teams), alumni, businesses with a vested interest in the programs, FRC as we know it could not exist.  They run the field, the pits, the administration, and some of the most crucial parts of our community.  
 * Ex: The Blue Alliance, a community site to view team information, was developed by students turned mentors, and is sponsored by Firebase and IFI.
 
+### Kickoff
+
+Kickoff is the beginning of the official FRC season, where the game reveal is shown, as well as the decryption keys for the manual being released.  As a team, you may either find a local kickoff to attend by looking on Chief Delphi, or asking around amongst other FRC teams you know.  The more common  option however, is to hold a small kickoff with your team.  Typically held in schools or homes (for small teams), you do all of the same things that all FRC teams do, including speculate wildly, watch the reveal, and hypothesize.  
+
+Some suggestions for kickoff include:
+* Checking the stream is unblocked.
+	* Most schools block Twitch.tv, the site where Kickoff was streamed to in 2017.  Making sure that you're actually able to *watch* kickoff is important for the day of.
+* Plan some sort of meal.
+	* Strategy planning at kickoff is really important and incredibly distracting, so making sure you're able to eat is absolutely essential.  Without food, well-informed and coherent decisions become *very* difficult.
+* Have lots of pencils and paper.
+	* A lot of ideas are going to be shared at a kickoff, so having the ability to not lose any, or at the very least write them all down, is a good step towards a successful robot.
+* Download the manual in advance.
+	* FIRST's website tends to have issues following the release of the manual, so downloading a local (but encrypted) copy in the days before is a good idea.  
+	
+Best of luck at kickoff, and have a good season!  It only gets crazier from here on out.
+
 ### Getting Started
 
 As a student, to participate in FIRST you need to register in STIMS.  The Student Technology Information System.  Though the system is slightly messy, you can use [this guide](http://nutrons.com/wp-content/uploads/2016/10/How-to-Navigate-STIMS-1.pdf) the Nutrons to help you along.  Having a similar presentation during one of your early meetings would definitely help you.
