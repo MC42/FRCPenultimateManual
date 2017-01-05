@@ -18,7 +18,7 @@ Crash Course in FIRST
 * [History](https://github.com/MC42/FRCPenultimateManual/blob/master/FRCPenultimateManual.md#history)
 * [Who Are Mentors](https://github.com/MC42/FRCPenultimateManual/blob/master/FRCPenultimateManual.md#who-are-mentors)
 * [Who Are Volunteers](https://github.com/MC42/FRCPenultimateManual/blob/master/FRCPenultimateManual.md#who-are-volunteers)
-
+* [Kickoff](https://github.com/MC42/FRCPenultimateManual/blob/master/FRCPenultimateManual.md#kickoff)
 Sections:
 
 Team Divisions:
