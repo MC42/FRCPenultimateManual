@@ -39,7 +39,7 @@ The FIRST organization was founded in 1989 by Dean Kamen, of DEKA Robotics and P
 
 In 2005 the pilot program of the FIRST Tech Challenge, in cooperation with Innovation First Intl. (commonly known as VEX Robotics), was created.  The program used the standard VEX kits and offered a lower cost alternative to getting involved in the FIRST ecosystem.
 
-Over more time, two more programs for younger students were created, being the FIRST Lego League and the FIRST Lego League Jr.  Together, they form a robotics family of programs capable of following a student from K-12.
+Over more time, two more programs for younger students were created, being the FIRST Lego League and the FIRST Lego League Jr.  Together, they form a robotics family of programs capable of following a student from K-12.  In 2016, FIRST announced that their Championship event would be splitting into a "North" and "South" Championships.  Check which Champ you would go to (barring transfers) [here](http://www.firstinspires.org/sites/default/files/uploads/championship/first-championship-maps-2017-2018.pdf).
 
 ### Who Are Mentors?
 
@@ -187,7 +187,7 @@ If your team finds the time saved, or the potential to not miss a match you may 
 
 * Strategy should happen before design and design should happen before fabrication.
 
-    * Not that strategy can never be re-evaluated during design or design can be revised during fabrication
+    * Not that strategy can never be re-evaluated during design or design can be revised during fabrication.
 
 * Focus on having a working robot that achieves its strategy goals, not about its design.
 
@@ -196,6 +196,8 @@ If your team finds the time saved, or the potential to not miss a match you may 
 * Bringing multiple battery chargers is a GOOD idea.
 
 * Developing a new feature/mechanism for the robot during competition is almost impossible when focusing on match preparation.
+
+If your team doesn't have a whole lot of money, following a project like [Everybot](https://ccisdrobonauts.org/?p=everybot) by FRC118 the Robonauts.  Their work captures a Kit-of-Parts robot with a budget of $1,000, potentially giving a low-budget team ideas for mechanisms and different ways to approach the challenge of the FIRST Robotics Competition.
 
 ## Programming
 
@@ -1140,6 +1142,12 @@ Just note that it can also be host to the likes of these:
 *"What is this... extreme air-keyboarding?...For those about to type, we salute you. “- Andy Baker*
 
 *"Never underestimate people's ability to underestimate." - Ginger Power*
+
+## Everybot
+
+FRC Team 118 has created an initiative called Everybot, where people can follow the process of building a sub $1,000 KoP based robot, potentially helping a low-budget team.
+
+[Everybot](https://ccisdrobonauts.org/?p=everybot)
 
 # Credits
 
