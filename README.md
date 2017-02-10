@@ -53,6 +53,7 @@ ___
 * [Writing A Business Plan](https://github.com/MC42/FRCPenultimateManual/blob/master/FRCPenultimateManual.md#writing-a-business-plan)
 * ["Steal from the best, invent the rest"](https://github.com/MC42/FRCPenultimateManual/blob/master/FRCPenultimateManual.md#steal-from-the-best-invent-the-rest)
 * [Roles of A Team Captain](https://github.com/MC42/FRCPenultimateManual/blob/master/FRCPenultimateManual.md#roles-of-team-captain)
+* [Everybot](https://github.com/MC42/FRCPenultimateManual/blob/master/FRCPenultimateManual.md#everybot)
 
 \#TSIMFD
 
