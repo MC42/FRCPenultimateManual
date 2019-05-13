@@ -1,7 +1,7 @@
 # FRCPenultimateManual
 This manual intends to cover some of the more fine points of FRC, that may not be apparent to the casual viewer, first time student or mentor.
 
-Document worked on by Teams [1257](http://team1257.org), [2791](https://thebluealliance.com/team/2791), [1228](https://thebluealliance.com/team/1228), [4263](https://thebluealliance.com/team/4263), [612](http://chantillyrobotics.org), [4150](http://thebluealliance.com/team/4150), and [5940](http://www.team5940.org/) as well as members of the [FRC Discord Server](https://www.reddit.com/r/FRC/comments/4s0uf4/frc_discord_server_converse_with_fellow_teams/).
+Document worked on by Teams [1257](http://team1257.org), [2791](https://thebluealliance.com/team/2791), [1228](https://thebluealliance.com/team/1228), [4263](https://thebluealliance.com/team/4263), [612](http://chantillyrobotics.org), [4150](http://thebluealliance.com/team/4150), [5052](https://team5052.com) and [5940](http://www.team5940.org/) as well as members of the [FRC Discord Server](https://www.reddit.com/r/FRC/comments/4s0uf4/frc_discord_server_converse_with_fellow_teams/).
 
 To contribute:
 
@@ -9,7 +9,7 @@ To contribute:
 * Edit as needed.
 * Make a pull request detailing your changes.
 
-Lisense(?) : Share, have fun!  Content is copyright their respective owners.
+License(?) : Share, have fun!  Content is copyright their respective owners.
 
 
 Crash Course in FIRST
@@ -44,7 +44,7 @@ Good Resources:
 
 ___
 
-* [Indespensible Tools & Techniques](https://github.com/MC42/FRCPenultimateManual/blob/master/FRCPenultimateManual.md#indispensable-tools--techniques)
+* [Indispensible Tools & Techniques](https://github.com/MC42/FRCPenultimateManual/blob/master/FRCPenultimateManual.md#indispensable-tools--techniques)
 * [Keys to a Successful Drive Team (254)](https://github.com/MC42/FRCPenultimateManual/blob/master/FRCPenultimateManual.md#keys-to-a-successful-drive-team-254-and-travis-covington)
 * [Anatomy of Robot Code (RobotPy)](https://github.com/MC42/FRCPenultimateManual/blob/master/FRCPenultimateManual.md#robotpy---anatomy-of-a-robot)
 * [Apps & Programs](https://github.com/MC42/FRCPenultimateManual/blob/master/FRCPenultimateManual.md#apps--programs)
