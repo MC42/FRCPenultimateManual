@@ -1,5 +1,9 @@
+# Please not is has not been maintained for quite a bit.
+
 # FRCPenultimateManual
 This manual intends to cover some of the more fine points of FRC, that may not be apparent to the casual viewer, first time student or mentor.
+
+
 
 Document worked on by Teams [1257](http://team1257.org), [2791](https://thebluealliance.com/team/2791), [1228](https://thebluealliance.com/team/1228), [4263](https://thebluealliance.com/team/4263), [612](http://chantillyrobotics.org), [4150](http://thebluealliance.com/team/4150), [5052](https://team5052.com) and [5940](http://www.team5940.org/) as well as members of the [FRC Discord Server](https://www.reddit.com/r/FRC/comments/4s0uf4/frc_discord_server_converse_with_fellow_teams/).
 
